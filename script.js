@@ -86,7 +86,7 @@ const questions = [
             "6 anos",
             "10 anos"
         ],
-        answerIndex: 2
+        answerIndex: 1
     },
     {
         question: "Qual função pode ser prejudicada pelos hábitos orais deletérios?",
