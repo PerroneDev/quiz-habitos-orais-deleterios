@@ -9,7 +9,7 @@ const questions = [
             "Problemas causados somente por má higiene",
             "Alterações comuns sem consequências"
         ],
-        answerIndex: 1
+        answerIndex: 4
     },
     {
         question: "Qual dos hábitos abaixo é considerado deletério?",
